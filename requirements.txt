@@ -1,1 +1,1 @@
-vk-api.py
+vk-api==11.0.0
